@@ -38,7 +38,7 @@ DEFAULT_SETTINGS = DefaultTestSettings(
         "edc_registration.apps.AppConfig",
         "edc_metadata.apps.AppConfig",
         "edc_sites.apps.AppConfig",
-        "edc_listboard_app.apps.AppConfig",
+        "edc_dashboard.apps.AppConfig",
         "edc_listboard.apps.AppConfig",
     ],
     add_dashboard_middleware=True,
