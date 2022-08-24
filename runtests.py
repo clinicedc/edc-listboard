@@ -42,6 +42,7 @@ DEFAULT_SETTINGS = DefaultTestSettings(
         "edc_listboard.apps.AppConfig",
     ],
     add_dashboard_middleware=True,
+    use_test_urls=True,
 ).settings
 
 
