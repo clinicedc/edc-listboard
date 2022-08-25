@@ -1,2 +1,2 @@
 # edc-listboard
-Listboard class for edc 
+Listboard class for edc
