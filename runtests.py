@@ -40,6 +40,7 @@ DEFAULT_SETTINGS = DefaultTestSettings(
         "edc_metadata.apps.AppConfig",
         "edc_notification.apps.AppConfig",
         "edc_sites.apps.AppConfig",
+        "edc_visit_schedule.apps.AppConfig",
         "edc_visit_tracking.apps.AppConfig",
         "edc_dashboard.apps.AppConfig",
         "edc_listboard.apps.AppConfig",
